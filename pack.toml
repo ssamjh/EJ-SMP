@@ -1,0 +1,13 @@
+name = "EJ-SMP"
+author = "Z4npher+ssamjh"
+version = "1.19-1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0ea9530c83d330d72d9c6320be27f101f576210ee1efe4fba484c4f05c3454fb"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.0"
