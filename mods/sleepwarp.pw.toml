@@ -1,0 +1,8 @@
+name = "SleepWarp"
+filename = "sleepwarp-1.1.0+1.16.5.jar"
+side = "universal"
+
+[download]
+url = "https://cdn-raw.modrinth.com/data/OPvzuqtZ/versions/1.1.0+1.16.5/sleepwarp-1.1.0%2B1.16.5.jar"
+hash-format = "sha1"
+hash = "0f2b1a29beb9521e11046f76674d78ddc86e1371"
