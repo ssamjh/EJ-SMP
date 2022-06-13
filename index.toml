@@ -11,11 +11,6 @@ hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "984faa83d02a415e58a8c62ff87dd8ddff046be24d196fa94ac9628d91960f30"
-metafile = true
-
-[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "27a145220af5b044739ae1b414a0fa1a44d55de811867f69a7b4eed82425a949"
 metafile = true
@@ -168,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
-metafile = true
-
-[[files]]
-file = "mods/powershot.pw.toml"
-hash = "c962b2b912706d9a6adba4e1f4086944ac83a84ef178706616c9230ea01ec1d5"
 metafile = true
 
 [[files]]
