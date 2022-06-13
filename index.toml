@@ -96,11 +96,6 @@ hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "34ca63bb36311069f03833de201a92cd7d505ea08227f00a09f080787174e660"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
 metafile = true
