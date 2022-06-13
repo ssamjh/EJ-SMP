@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleepwarp.pw.toml"
-hash = "780e3401562efadbcb65ade211420909fa2cc725a1962f4b61d63f77e48a2d24"
+hash = "307baecce5777c1788552e477ed9a449e692b26368a86cdef3487cb8c8b15869"
 metafile = true
 
 [[files]]
