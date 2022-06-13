@@ -11,6 +11,11 @@ hash = "0eb121483095f83eb273f2a11cba2f920858db1db63b9897d9b9b614e0736cf1"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "fd2c67c1262d8afc294de8dd7e5daf9e6335647557dd9628c5dcb957075b4693"
 metafile = true
