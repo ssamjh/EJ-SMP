@@ -1,6 +1,6 @@
 name = "SleepWarp"
 filename = "sleepwarp-1.1.0+1.16.5.jar"
-side = "universal"
+side = "server"
 
 [download]
 url = "https://cdn-raw.modrinth.com/data/OPvzuqtZ/versions/1.1.0+1.16.5/sleepwarp-1.1.0%2B1.16.5.jar"
