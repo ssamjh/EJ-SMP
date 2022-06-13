@@ -26,6 +26,11 @@ hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
 metafile = true
 
 [[files]]
