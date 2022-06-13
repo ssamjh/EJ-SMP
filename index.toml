@@ -96,11 +96,6 @@ hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
 metafile = true
 
 [[files]]
-file = "mods/inspecio.pw.toml"
-hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
@@ -146,11 +141,6 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "12eee0ea0c1772be1d831359a295c2d008f596d031a8f568242c0ce7db70e9a4"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
@@ -188,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "be2275486a63cc669a3353884b49dcd1fe27eb69dcc69c6bea243fe3298f512c"
 metafile = true
 
 [[files]]
