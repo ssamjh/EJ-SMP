@@ -1,8 +1,0 @@
-name = "SleepWarp"
-filename = "sleepwarp-1.1.0+1.16.5.jar"
-side = "universal"
-
-[download]
-url = "https://cdn-raw.modrinth.com/data/OPvzuqtZ/versions/1.1.0+1.16.5/sleepwarp-1.1.0%2B1.16.5.jar"
-hash-format = "sha256"
-hash = "c66b1da475249923f69b9ed1ce39b319cab49b8bfc18d52a7b9191c5ec94330f"
