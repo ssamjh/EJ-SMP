@@ -5,42 +5,6 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
-file = "config/PlasmoVoice/config.json"
-hash = "8cef5b27593b03898b5144fb6a99abc04b3ddcd153327a3b46c322ad439b8025"
-
-[[files]]
-file = "config/dynamicfps.toml"
-hash = "95ece0952cbc87e82f3a5a62b9e807f92ce617b684307c8a7e0f1b293f956ba2"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "422472dc3d1783a706d23bddaa775bca5970392505c575b143195cccd57b3982"
-
-[[files]]
-file = "config/options.txt"
-hash = "a4919b52cb56d50a7ab458f000f88dfa0e6f42b7e1b14ac3e0dc4a0ef7bab300"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "b2e81ade6286aadd3a7e3f0a32a7c122ea665fd3ff74c9d563f31f3d2a3e71d6"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "f4d544da259231e816ed57fa8d7de31abf80643a9df956851e88d4b036030f9a"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "76ac587de6f4bb25b601ce348ae1cef85a997d37c2182d62f7717458530cd6d1"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "ae3ac32c7479293516b5e52b3fa2f75f850a19d5e00db836bb7238d3d3650a22"
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
 metafile = true
@@ -63,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
 metafile = true
 
 [[files]]
@@ -237,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleepwarp.pw.toml"
-hash = "fc575e9efa40854f0eb589b95d584a3e7ecc4694d122eb71e7f4aa281e8c7111"
+hash = "221c96346f5ca9dbd9e4fe600e7dcd10178f8e6faed658084a6e82a660a64f2c"
 metafile = true
 
 [[files]]
@@ -279,11 +248,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "342b0ff6491b5ed0b4c6f2c281baad52e1d372e5cebf85faa6032ff5e7be1611"
-
-[[files]]
-file = "servers.dat"
-hash = "42959d0d0c372ae2632eccf526834785dd2ee696614dd41939d2e983579911f0"
