@@ -5,6 +5,10 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
+file = "config/tpshud_v2.json"
+hash = "f6caf8879458bfc230966dc44809275788a6e07d09bbd3ea8b671ee8be7e1de7"
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
 metafile = true
