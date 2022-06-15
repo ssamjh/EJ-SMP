@@ -125,6 +125,11 @@ hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "944753da8bcdf23432cec7a559f0681146b0eef0c18f5b94a952b85d20f52fad"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
 metafile = true
@@ -205,8 +210,8 @@ hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
 
 [[files]]
-file = "mods/sleepwarp.pw.toml"
-hash = "fc575e9efa40854f0eb589b95d584a3e7ecc4694d122eb71e7f4aa281e8c7111"
+file = "mods/sleep-warp.pw.toml"
+hash = "320c6865e322a7d6d8ec60bd2189132c52ee973af10ed255a8aac7cc26ae170e"
 metafile = true
 
 [[files]]
