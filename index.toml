@@ -240,6 +240,11 @@ hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
 metafile = true
 
 [[files]]
+file = "mods/tps-hud.pw.toml"
+hash = "b5acdc11c059303b13aa673f4a365a67aa69de97e9ebe24efb46cf67015bd5b8"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "677e6eb10c7aa494473d1c9b55eaf54e4389ac19f7131564a153f81b43da45f2"
 metafile = true
