@@ -6,7 +6,7 @@ hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
 file = "config/tpshud_v2.json"
-hash = "f6caf8879458bfc230966dc44809275788a6e07d09bbd3ea8b671ee8be7e1de7"
+hash = "b46a171413b986acbfc291e35c1e0967eb6ce5b2dc2bafbee33806429a0a7fdf"
 
 [[files]]
 file = "mods/antighost.pw.toml"
