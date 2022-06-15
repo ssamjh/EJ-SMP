@@ -99,6 +99,11 @@ hash = "6cb34219f7edaae938e9f4edabe1ee15742c6784d59dc97fc3e6df4a5e24d850"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "4ecbb09c0a249f93fbc0b36efb23c4b162739b6aa29d826d1e5a5fce8df935ee"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
 metafile = true
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
+metafile = true
+
+[[files]]
+file = "mods/plushie.pw.toml"
+hash = "91c8f12f4b35547f32d868157c5d869f4ef7c31214f717c3ef76effc176700bc"
 metafile = true
 
 [[files]]
