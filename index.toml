@@ -9,6 +9,10 @@ file = "config/tpshud_v2.json"
 hash = "0a8466a293d40a79c189bb29db1fc0243bb58039a0cdfa7ff9327eda627dddd6"
 
 [[files]]
+file = "config/wpit.json5"
+hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
 metafile = true
@@ -189,6 +193,11 @@ hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
 metafile = true
 
 [[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "b25df1d67a39156449d8888fd7df73689ec1bd0ed2e255ee076ef3f926f2f875"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
@@ -276,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/tps-hud.pw.toml"
 hash = "b5acdc11c059303b13aa673f4a365a67aa69de97e9ebe24efb46cf67015bd5b8"
+metafile = true
+
+[[files]]
+file = "mods/wpit.pw.toml"
+hash = "37ed429dd51235c55d2dcb11649211b0065580af3b18f28db248935095c1d3e8"
 metafile = true
 
 [[files]]

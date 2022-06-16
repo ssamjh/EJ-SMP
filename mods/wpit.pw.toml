@@ -1,0 +1,13 @@
+name = "🐈 WPIT (Whose Pet Is That?)"
+filename = "wpit-mc1.19-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UK8n9eQD/versions/1.4.0/wpit-mc1.19-1.4.0.jar"
+hash-format = "sha1"
+hash = "c6d5e93082593394a9d240bfc39da2376deca978"
+
+[update]
+[update.modrinth]
+mod-id = "UK8n9eQD"
+version = "EFIKI0wq"
