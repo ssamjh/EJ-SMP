@@ -39,11 +39,6 @@ hash = "cb813029826c5dcbbd9deee45f82e913f51a7e37b488bb330781908d25957ad6"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
