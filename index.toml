@@ -34,11 +34,6 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "cb813029826c5dcbbd9deee45f82e913f51a7e37b488bb330781908d25957ad6"
 metafile = true
@@ -206,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+metafile = true
+
+[[files]]
+file = "mods/numeral-ping.pw.toml"
+hash = "d66a3e2d8bd4e887e659460567a311f2a184a191be157804c757890f92d143d4"
 metafile = true
 
 [[files]]
