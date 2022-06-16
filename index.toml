@@ -249,6 +249,11 @@ hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
+file = "mods/somemusicdiscs.pw.toml"
+hash = "0ee51dbae206cddd79619cc641a01a6ab2cccc6b403eb0d727d7bf089b5ad751"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
 metafile = true
