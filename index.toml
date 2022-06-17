@@ -5,6 +5,10 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
+file = "config/pickupnotifications.toml"
+hash = "7e247626c7093cd357343482fab3509829343cf515691a4dd1ef6f5a1808d3ae"
+
+[[files]]
 file = "config/tpshud_v2.json"
 hash = "0a8466a293d40a79c189bb29db1fc0243bb58039a0cdfa7ff9327eda627dddd6"
 
