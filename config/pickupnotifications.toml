@@ -18,4 +18,3 @@ configVersion = 1
 	# Additional notifications will be queued up and shown once
 	# there is room.
 	maxNotifications = 4
-
