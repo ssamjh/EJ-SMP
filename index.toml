@@ -253,11 +253,6 @@ hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
 
 [[files]]
-file = "mods/right-click-harvest.pw.toml"
-hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
-metafile = true
-
-[[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
 hash = "9c863029519f4a4f521ffeaf3554b0db4b7badbb3e93e5e2ffd8d0c734ca3290"
 metafile = true
