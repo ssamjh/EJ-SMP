@@ -53,6 +53,11 @@ hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
 hash = "9c863029519f4a4f521ffeaf3554b0db4b7badbb3e93e5e2ffd8d0c734ca3290"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
 metafile = true
 
 [[files]]
