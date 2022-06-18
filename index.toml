@@ -13,10 +13,6 @@ file = "config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
 [[files]]
-file = "fix.txt"
-hash = "8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4"
-
-[[files]]
 file = "mods/afkdisplay.pw.toml"
 hash = "bf98d18aef6550c2d85ad9c28afc05929ce54a17cefce9e38aefe70340162a87"
 metafile = true
