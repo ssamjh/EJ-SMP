@@ -13,6 +13,11 @@ file = "config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
 [[files]]
+file = "mods/afkdisplay.pw.toml"
+hash = "bf98d18aef6550c2d85ad9c28afc05929ce54a17cefce9e38aefe70340162a87"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
 metafile = true
@@ -30,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/beenfo.pw.toml"
 hash = "27a145220af5b044739ae1b414a0fa1a44d55de811867f69a7b4eed82425a949"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
@@ -243,6 +253,11 @@ hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
 
 [[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
+metafile = true
+
+[[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
 hash = "9c863029519f4a4f521ffeaf3554b0db4b7badbb3e93e5e2ffd8d0c734ca3290"
 metafile = true
@@ -260,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
+metafile = true
+
+[[files]]
+file = "mods/snowyleavesplus.pw.toml"
+hash = "0bdb81ff75e67b28b8c3100411481f1ba987375bca7df4e91c2088f4d7ef92b5"
 metafile = true
 
 [[files]]
