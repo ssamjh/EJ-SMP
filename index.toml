@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
@@ -319,12 +319,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "677e6eb10c7aa494473d1c9b55eaf54e4389ac19f7131564a153f81b43da45f2"
+hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5e14ee3730e67f5f210ec4797bb9420073403ec1925e755c43c802b38a76ad19"
+hash = "4ff08115d4dec034c1fa2a5b933daf38cf4dfc31282b8e7ffa04db89c1cd307b"
 metafile = true
 
 [[files]]
