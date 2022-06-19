@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/snowyleavesplus.pw.toml"
-hash = "0bdb81ff75e67b28b8c3100411481f1ba987375bca7df4e91c2088f4d7ef92b5"
+hash = "6e5bb6f625f33fcb89780cc7635d98a68f0a804bbd2cedcd80a8c89356d1d93c"
 metafile = true
 
 [[files]]
@@ -285,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/somemusicdiscs.pw.toml"
 hash = "7a2a95adc693438be4823329bd00813a7552b6f0227df2d59a152de84bf2ed95"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
 metafile = true
 
 [[files]]

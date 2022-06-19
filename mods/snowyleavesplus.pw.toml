@@ -5,9 +5,9 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/of7wIinq/versions/0.1.2/snowyleavesplus-0.1.2.jar"
 hash-format = "sha1"
-hash = "0e6452de75848176bc7e5fec7a1b69a42061b8e0"
+hash = "0ada4e051e522751c7335e3a2db361f0f2f1ca67"
 
 [update]
 [update.modrinth]
 mod-id = "of7wIinq"
-version = "LaX87mrU"
+version = "lA8feVpp"
