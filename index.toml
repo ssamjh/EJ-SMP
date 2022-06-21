@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
+hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
+hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
+hash = "b6f0cbbb4301e2a5be969049b3095902906238196958ab880d8c58554b935379"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
-hash = "9c863029519f4a4f521ffeaf3554b0db4b7badbb3e93e5e2ffd8d0c734ca3290"
+hash = "80399881491c2439b0960bbc39ed7395c6041f70801d67b98ff40646bf95844f"
 metafile = true
 
 [[files]]
