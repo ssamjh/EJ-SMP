@@ -98,11 +98,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view-fabric.pw.toml"
-hash = "16958dcc057bd886d7960a63522d64b65d1d9ef0080cc6701870c104bd8e0948"
-metafile = true
-
-[[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "9c5f9f193893085d4a6f5ec4da7ad47af3350142868cd9220857297c34059694"
 metafile = true
