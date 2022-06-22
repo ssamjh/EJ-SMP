@@ -1,0 +1,13 @@
+name = "Roundaround's Nicer Portals"
+filename = "nicerportals-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZD4RcHBZ/versions/1.0.0/nicerportals-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "cdc717fcdd25cc1fbccdba61a9d35fb0d17b80bf"
+
+[update]
+[update.modrinth]
+mod-id = "ZD4RcHBZ"
+version = "ghlb3eEO"

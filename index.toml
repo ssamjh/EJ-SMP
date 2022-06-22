@@ -33,6 +33,11 @@ hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "08bf1018fc1643357429454a2c2f28080b500957ef0675ab4d2186bd95c5c7b0"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "27a145220af5b044739ae1b414a0fa1a44d55de811867f69a7b4eed82425a949"
 metafile = true
@@ -60,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "e03eaa553a972a07d5c74e2c4bec1ff921d4710f1cc70e382d519d50cb60e185"
 metafile = true
 
 [[files]]
@@ -213,6 +223,11 @@ hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
 metafile = true
 
 [[files]]
+file = "mods/microdurability.pw.toml"
+hash = "9956cade0558572c50c4c3d5ab32bccbadcffa11304b0fdcaedbe5cd4835c81d"
+metafile = true
+
+[[files]]
 file = "mods/moderate-loading-screen.pw.toml"
 hash = "b25df1d67a39156449d8888fd7df73689ec1bd0ed2e255ee076ef3f926f2f875"
 metafile = true
@@ -255,6 +270,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-inventory-management.pw.toml"
+hash = "f071530893ecb1ff55aa3b552774c11e2497877a62a3d90778d09dc372e2db30"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-nicer-portals.pw.toml"
+hash = "baf4b44db76a08ab64d4a6c3e3b0197ad71721a2d26580342a05c79e42e5e319"
 metafile = true
 
 [[files]]
