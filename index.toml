@@ -9,6 +9,11 @@ file = "config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
+metafile = true
+
+[[files]]
 file = "mods/afkdisplay.pw.toml"
 hash = "bf98d18aef6550c2d85ad9c28afc05929ce54a17cefce9e38aefe70340162a87"
 metafile = true
@@ -244,6 +249,11 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "91e24178f86243b32a8516ceefd1f21b054d7c963e44f274ddfede8d8d41c027"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
@@ -331,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
 metafile = true
 
 [[files]]
