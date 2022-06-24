@@ -169,11 +169,6 @@ hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
-file = "mods/inspecio.pw.toml"
-hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
