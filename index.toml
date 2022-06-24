@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
+hash = "0a5bd27a69da6fe5a5628795c1ce79bac867bfa9563b797a433f89ccd4bca80b"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "3e84222a0d8020efe132dff80b2fc01ff9a1768dcc39f5e41a80bf7cf501a628"
+hash = "78ef14042d4ebed0673467381aacd84a0eeafe0ecd48484175e45469e66f1b25"
 metafile = true
 
 [[files]]
@@ -359,5 +359,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
