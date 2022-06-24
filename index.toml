@@ -163,11 +163,6 @@ hash = "78ef14042d4ebed0673467381aacd84a0eeafe0ecd48484175e45469e66f1b25"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "15703ff475fc638bdc8a4d62b708d517be68f86069611e84149cf126f2d76187"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
