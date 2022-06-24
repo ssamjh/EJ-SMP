@@ -5,10 +5,6 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
-file = "config/tpshud_v2.json"
-hash = "0a8466a293d40a79c189bb29db1fc0243bb58039a0cdfa7ff9327eda627dddd6"
-
-[[files]]
 file = "config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
@@ -338,13 +334,13 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/tips.pw.toml"
-hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
+file = "mods/tabtps.pw.toml"
+hash = "c57096e4e3e03f73a4c325ac5c5f2e6a69631121df13be1977cadf3884dcd407"
 metafile = true
 
 [[files]]
-file = "mods/tps-hud.pw.toml"
-hash = "b5acdc11c059303b13aa673f4a365a67aa69de97e9ebe24efb46cf67015bd5b8"
+file = "mods/tips.pw.toml"
+hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
 metafile = true
 
 [[files]]
