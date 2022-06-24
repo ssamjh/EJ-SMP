@@ -5,6 +5,10 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
+file = "config/farsight.json"
+hash = "4eeb4805fea7f848781675d12a2da395696d2d7e02bb177113e005bb996e9202"
+
+[[files]]
 file = "config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
 
