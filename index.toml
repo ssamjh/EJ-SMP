@@ -169,11 +169,6 @@ hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
-file = "mods/keybinds.pw.toml"
-hash = "405a39148f5b208fd46c301cdfdce700180f135af6f61c3aba3c58697bac5f4d"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
