@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "cb813029826c5dcbbd9deee45f82e913f51a7e37b488bb330781908d25957ad6"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "e03eaa553a972a07d5c74e2c4bec1ff921d4710f1cc70e382d519d50cb60e185"
+hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
 metafile = true
 
 [[files]]
@@ -134,12 +134,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0a5bd27a69da6fe5a5628795c1ce79bac867bfa9563b797a433f89ccd4bca80b"
+hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "78ef14042d4ebed0673467381aacd84a0eeafe0ecd48484175e45469e66f1b25"
+hash = "d01406c9e70d67e91b51f25fb37273a2489d17bf8c55f3569766a81cf4eab716"
 metafile = true
 
 [[files]]
@@ -294,12 +294,17 @@ metafile = true
 
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
-hash = "80399881491c2439b0960bbc39ed7395c6041f70801d67b98ff40646bf95844f"
+hash = "900f6c6773a6d24861dccb5363f712ea1b2ad63b303ffd1f6050247b8a29d7f1"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
 metafile = true
 
 [[files]]
@@ -359,17 +364,17 @@ metafile = true
 
 [[files]]
 file = "mods/wpit.pw.toml"
-hash = "37ed429dd51235c55d2dcb11649211b0065580af3b18f28db248935095c1d3e8"
+hash = "8261d483315d813973d43ad9642572c4b337d4a75097bef86d371590c0c63749"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
+hash = "e539d2aceef8a33be44a0d39f7f565f6268f4a5b77dad7f00f121cb800e448fb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4ff08115d4dec034c1fa2a5b933daf38cf4dfc31282b8e7ffa04db89c1cd307b"
+hash = "19b0fc5cdbba29719a944ec3e957126316d032a0012bb57f04eb6929527ce629"
 metafile = true
 
 [[files]]
