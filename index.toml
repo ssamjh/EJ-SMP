@@ -5,12 +5,24 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
-file = "config/farsight.json"
+file = "config/options.txt"
+hash = "5731f302bcbaff0def660e82e0d70156738d7aa1c49dc90bab091d5153391a77"
+
+[[files]]
+file = "config/yosbr/config/farsight.json"
 hash = "4eeb4805fea7f848781675d12a2da395696d2d7e02bb177113e005bb996e9202"
 
 [[files]]
-file = "config/wpit.json5"
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "216e197355f772da28706eed826816b73d10f52a05db75291bf9d4b302149e21"
+
+[[files]]
+file = "config/yosbr/config/wpit.json5"
 hash = "bbb10020301a419cff37221d2225ac9650eb73d1807fd90bfa076d277927e644"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "64736dfe35a3fd4a97b435a82a14d81005e50510e911b0456b1e8b332829c2fc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
