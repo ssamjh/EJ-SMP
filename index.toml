@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
-hash = "900f6c6773a6d24861dccb5363f712ea1b2ad63b303ffd1f6050247b8a29d7f1"
+hash = "8277a48927d924b41631d4b4ecbd3f36eec47a6e74e56f66dcddebd323f276b6"
 metafile = true
 
 [[files]]
