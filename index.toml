@@ -140,8 +140,18 @@ hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "60c798ad6cb06c66714ac413e3c867bc2bb8c3b0eab450e9d430142f5f732d55"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/extended-clouds.pw.toml"
+hash = "35aab4d5567d77edd1dcc2f3438c4817ce7bca0a4a4c6fe03dbbe0a37926dceb"
 metafile = true
 
 [[files]]
@@ -195,6 +205,11 @@ hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
@@ -227,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/low-fire.pw.toml"
+hash = "5891e21a1b4f0bf9293cd835ca6e5a0dc0f080425dc5c0769640d58dfc0c7107"
 metafile = true
 
 [[files]]
@@ -296,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/roundaround-inventory-management.pw.toml"
-hash = "f071530893ecb1ff55aa3b552774c11e2497877a62a3d90778d09dc372e2db30"
+hash = "4b159d8bece833286dcecb7803df1eba823a2c10cf42f0c15483f3db1e337636"
 metafile = true
 
 [[files]]
@@ -370,13 +390,18 @@ hash = "c57096e4e3e03f73a4c325ac5c5f2e6a69631121df13be1977cadf3884dcd407"
 metafile = true
 
 [[files]]
+file = "mods/timestamp-chat.pw.toml"
+hash = "f2e4c9705775df2f1d1fd947be487f5c9960505e002ef737f4614cee94eb9ea5"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "ed4f37e1da3fdca4a23f5704f76604929820a2167bb0be6daeb65298afba3cba"
 metafile = true
 
 [[files]]
 file = "mods/wpit.pw.toml"
-hash = "8261d483315d813973d43ad9642572c4b337d4a75097bef86d371590c0c63749"
+hash = "b66c0748890e7453aedb8c085c03e7984daedc090ea7eabed7673a2973c9c232"
 metafile = true
 
 [[files]]
