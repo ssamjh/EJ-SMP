@@ -13,8 +13,16 @@ file = "config/yosbr/config/farsight.json"
 hash = "4eeb4805fea7f848781675d12a2da395696d2d7e02bb177113e005bb996e9202"
 
 [[files]]
+file = "config/yosbr/config/lowfire.json"
+hash = "7e9133ea5090a32536237ebc069095e3c445d42b13572122bb1de507ecd8e897"
+
+[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "216e197355f772da28706eed826816b73d10f52a05db75291bf9d4b302149e21"
+
+[[files]]
+file = "config/yosbr/config/timestamp_chat.toml"
+hash = "c7f3fea7982dea7d7d5df4f1707ba58ad736ec6edeab20acf597e0803de95bb6"
 
 [[files]]
 file = "config/yosbr/config/wpit.json5"
