@@ -150,11 +150,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/extended-clouds.pw.toml"
-hash = "35aab4d5567d77edd1dcc2f3438c4817ce7bca0a4a4c6fe03dbbe0a37926dceb"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
@@ -336,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "afe3992254de807d9adc977e96fb3e55db65e18bc57077534d51bdd79443d0fc"
+hash = "ba4fa4527a3f7beb3e653bb404a817d9878a2f2766439c41c71332a8ec97c459"
 metafile = true
 
 [[files]]
