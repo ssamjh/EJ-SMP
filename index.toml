@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "c3d82e10126c56b018d25f664e9107a583091b82548c4f04a14c3b1b4db0f507"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavm.pw.toml"
-hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
+hash = "aba200ac8818fe5ce59c1cb342dcd530b81e3ea85ce2e9f9c1d3a8863b8b1be7"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "b6f0cbbb4301e2a5be969049b3095902906238196958ab880d8c58554b935379"
+hash = "91b558433050a895a6f5b526fc401163821a539ea243d78a629763f15c5d8dc7"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/timestamp-chat.pw.toml"
-hash = "f2e4c9705775df2f1d1fd947be487f5c9960505e002ef737f4614cee94eb9ea5"
+hash = "7a1186d52eae263e4891861169acfca4d4e911a841c131c6b21a7350e5bcb746"
 metafile = true
 
 [[files]]
@@ -414,12 +414,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e539d2aceef8a33be44a0d39f7f565f6268f4a5b77dad7f00f121cb800e448fb"
+hash = "1eb33f86eead49f33a4e66497910f279c6d7f466da24686274f0a4b608ca9d68"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "19b0fc5cdbba29719a944ec3e957126316d032a0012bb57f04eb6929527ce629"
+hash = "2bc3242a6a026024a2048e0051c0efed79d159e72d6ea361da847acbc6f68da5"
 metafile = true
 
 [[files]]
