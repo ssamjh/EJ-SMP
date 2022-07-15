@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsestatsvanilla.pw.toml"
-hash = "944753da8bcdf23432cec7a559f0681146b0eef0c18f5b94a952b85d20f52fad"
+hash = "2d89ca796ad576935102b7ba64e4c53afcb3d321fd1fc21390fa0a2574c91204"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
+hash = "ab87d11245e86cef0c692250872ec7ce84437c25927c27abf311b5ebfff5e453"
 metafile = true
 
 [[files]]
